@@ -12,7 +12,7 @@ let urlString = '';
 if ((parseInt(day) == 5 && parseInt(hour) > 16) || (parseInt(day) == 6 && parseInt(hour) < 18)) {
     urlString = "http://go.pardot.com/l/930633/2021-05-28/2zx"; // Weekend Form URL
 } else {
-    urlString = "https://www2.quickattach.com/l/930633/2021-05-15/54i"; // Default Form URL
+    urlString = "https://www2.quickattach.com/l/930633/2021-05-13/3n"; // Default Form URL
 }
 
 // Append Product name to the chosen URL and reload iframe
